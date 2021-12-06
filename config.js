@@ -1,4 +1,4 @@
-module.exports = {
+export default {
     "mode": "development",
     "PORT": "5000"
 }
