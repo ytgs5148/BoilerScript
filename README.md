@@ -36,3 +36,8 @@ Contains mongo.js and a sample model and database folder with basic functions.
 ```cmd
 git clone <repo_name> --single-branch -b react
 ```
+
+5. **TypeScript Configuration**
+```cmd
+git clone <repo_name> --single-branch -b typescript
+```
